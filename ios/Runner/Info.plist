@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Bogeys &amp; Brews Golf Club</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Perez-TestDemo</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <!--FF_REVERSED_CLIENT_ID-->
+                
+            </array>
+        </dict>
+
+        <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>pereztestdemo.com</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+        <string>pereztestdemo</string>
+        </array>
+        </dict>
+    </array>
+    <key>FlutterDeepLinkingEnabled</key>
+    <true/>
+
+
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+
+
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Bogeys and Brews needs Bluetooth access to connect with nearby devices during golf events—for example, syncing music from live DJs or coordinating tournament equipment. We only use Bluetooth while you’re actively using the app.</string>
+	<key>NSCalendarsUsageDescription</key>
+    <string>Bogeys and Brews would like to add your golf events to your calendar so you never miss a tee time, tournament, or team activity. We only access your calendar with your permission and do not share or modify other events.</string>
+	<key>NSCameraUsageDescription</key>
+    <string>Bogeys and Brews needs access to your camera so you can capture photos and videos during tournaments, post to the community, or scan QR codes at events. We only use your camera when you choose to, and nothing is recorded without your consent.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>Bogeys and Brews uses your location to track shots, navigate the course, and provide accurate scoring during events. Location is only used while the app is active and never shared without your consent.</string>
+	<key>NSMicrophoneUsageDescription</key>
+    <string>Bogeys and Brews needs microphone access so you can record commentary, interact with audio features during live events, or send voice messages to your team. We only use your mic when you choose to and never listen in without your permission.</string>
+	<key>PermissionGroupNotification</key>
+    <string>Bogeys and Brews would like to send you notifications about tournament updates, tee times, event music, and exclusive offers. You can control what you receive anytime in your settings.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>Bogeys and Brews needs access to your photo library so you can upload tournament photos, select profile images, or save your favorite golf moments. We’ll only access the photos you choose to share.</string>
+
+
+
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+
+</dict>
+</plist>

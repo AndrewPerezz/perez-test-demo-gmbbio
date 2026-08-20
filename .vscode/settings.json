@@ -1,0 +1,14 @@
+{
+  "files.readonlyInclude": {
+    "**": true
+  },
+  "files.readonlyExclude": {
+    "lib/custom_code/**": true,
+    "lib/flutter_flow/custom_functions.dart": true,
+    "pubspec.yaml": true,
+    "lib/flutter_flow/function_changes.json": true,
+    ".vscode/settings.json": true,
+    "lib/custom_code/actions/toggle_live_stream.dart": true,
+    "lib/custom_code/my_class.dart": true
+  }
+}

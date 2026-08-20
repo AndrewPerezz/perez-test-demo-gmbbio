@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19872584196",
+    "project_id": "leaderboard-template-rp2ht7",
+    "storage_bucket": "leaderboard-template-rp2ht7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19872584196:android:1949861a93bd1cccc85b51",
+        "android_client_info": {
+          "package_name": "com.mycompany.sharktankleaderboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfF_IhwdSCwz9428eyPZ5y-az7BxctgYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
